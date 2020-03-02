@@ -1,3 +1,9 @@
+# The demo of this application can be view at:
+
+https://meroecom-live.herokuapp.com/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
